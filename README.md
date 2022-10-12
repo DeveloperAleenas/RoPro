@@ -5,8 +5,9 @@
 
 
 ## How to install?
-- Click Code
-- Download as zip
+- Click RoPro.rar
+- Click View Raw
+- Wait for it to be downloaded
 - Extract file
 - Go to chrome://extensions in the url
 - Turn Developer Mode on the top right corner
